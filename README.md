@@ -10,7 +10,7 @@ One of the requirements in **freeCodeCamp's** [Relational Database Certification
 ## Usage
 Restore database using the `universe.sql` file:
 
-### Bash
+##### Bash
 ```bash
-:~$ psql -h <hostName> -U <userName> -d postgres < database_name.sql
+psql -h <hostName> -U <userName> -d postgres < database_name.sql
 ```
