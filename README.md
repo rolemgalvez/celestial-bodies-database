@@ -12,5 +12,5 @@ Restore database using the `universe.sql` file:
 
 ##### Bash
 ```bash
-psql -h <hostName> -U <userName> -d postgres < database_name.sql
+psql -h <hostName> -U <userName> -d postgres < universe.sql
 ```
