@@ -8,7 +8,7 @@ One of the requirements in **freeCodeCamp's** [Relational Database Certification
 
 
 ## Usage
-Restore database using the `universe.sql`:
+Restore database using the `universe.sql` file:
 
 ### Bash
 ```bash
